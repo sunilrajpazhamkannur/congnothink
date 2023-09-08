@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunilrajpazhamkannur.github.io/congnothink/static/css/main.89b0405c.css",
+    "main.js": "/sunilrajpazhamkannur.github.io/congnothink/static/js/main.12715452.js",
+    "index.html": "/sunilrajpazhamkannur.github.io/congnothink/index.html",
+    "main.89b0405c.css.map": "/sunilrajpazhamkannur.github.io/congnothink/static/css/main.89b0405c.css.map",
+    "main.12715452.js.map": "/sunilrajpazhamkannur.github.io/congnothink/static/js/main.12715452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b0405c.css",
+    "static/js/main.12715452.js"
+  ]
+}
