@@ -2,7 +2,7 @@
   "name": "my-react-social-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sunilrajpazhamkannur.github.io/netbook",
+  
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
